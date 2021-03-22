@@ -1,0 +1,259 @@
+/* screen - quiz-taxesq23 */
+
+.lato-medium-black-24px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.lato-normal-black-12px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.quiz-taxesq23 {
+  background-color: var(--green-vogue);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.quiz-taxesq23 .component-44-C61RwL {
+  background-color: var(--selective-yellow);
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.25);;
+  height: 54px;
+  left: 70px;
+  position: absolute;
+  top: 415px;
+  width: 233px;
+}
+.quiz-taxesq23 .component-45-C61RwL {
+  background-color: var(--selective-yellow);
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.25);;
+  height: 54px;
+  left: 70px;
+  position: absolute;
+  top: 489px;
+  width: 233px;
+}
+.quiz-taxesq23 .component-46-C61RwL {
+  background-color: var(--green-vogue);
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.25);;
+  height: 54px;
+  left: 70px;
+  position: absolute;
+  top: 563px;
+  width: 233px;
+}
+.quiz-taxesq23 .flame-768-2-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 308px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 67px;
+}
+.quiz-taxesq23 .group-93-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 151px;
+  width: 335px;
+}
+.quiz-taxesq23 .group-94-C61RwL {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 10px;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 151px;
+  width: 157px;
+}
+.quiz-taxesq23 .if-you-have-a-b-return-you-must-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 208px;
+  width: 277px;
+}
+.quiz-taxesq23 .menu-bar-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 799px;
+  width: 134px;
+}
+.quiz-taxesq23 .question-23-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-taxesq23 .quiz-answers-i362101763124805-vOG7ya {
+  background-color: transparent;
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 213px;
+}
+.quiz-taxesq23 .quiz-answers-i362101773124805-ynilhp {
+  background-color: transparent;
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 213px;
+}
+.quiz-taxesq23 .quiz-answers-i362101783124805-1Su3xv {
+  background-color: transparent;
+  height: 42px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 213px;
+}
+.quiz-taxesq23 .quiz-answers-i362101793124805-nodKxd {
+  background-color: transparent;
+  color: var(--selective-yellow);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  height: 21px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 213px;
+}
+.quiz-taxesq23 .quiz-buttons-C61RwL {
+  background-color: var(--selective-yellow);
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.25);;
+  height: 54px;
+  left: 70px;
+  position: absolute;
+  top: 341px;
+  width: 233px;
+}
+.quiz-taxesq23 .rectangle-200-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 549px;
+  left: 19px;
+  position: absolute;
+  top: 180px;
+  width: 335px;
+}
+.quiz-taxesq23 .x16-circle-chevron-right-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/icon-46@2x.svg);
+  background-size: 100% 100%;
+  height: 45px;
+  left: 296px;
+  position: absolute;
+  top: 668px;
+  width: 45px;
+}
+.worksans-medium-green-vogue-10px {
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+.worksans-normal-black-20px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-semi-bold-black-18px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-26px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-24px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --alto: rgba(217,217,217,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blue-zodiac: rgba(16,41,76,1.0);
+  --caribbean-green-pearl: rgba(86,222,140,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --green-vogue: rgba(4,41,79,1.0);
+  --grenadier: rgba(226,48,1,1.0);
+  --selective-yellow: rgba(255,180,0,1.0);
+  --storm-dust: rgba(96,96,96,1.0);
+  --white: rgba(255,255,255,1.0);
+}

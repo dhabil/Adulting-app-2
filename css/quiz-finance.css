@@ -1,0 +1,1046 @@
+/* screen - quiz-finance */
+
+.lato-medium-black-24px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.lato-normal-black-12px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.quiz-finance {
+  background-color: var(--white);
+  height: 1119px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.quiz-finance .battery-j2M5V3 {
+  background-color: transparent;
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.quiz-finance .bg-W8ROXu {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 375px;
+}
+.quiz-finance .cards-2P4qUJ {
+  background-color: transparent;
+  height: 115px;
+  left: 21px;
+  position: absolute;
+  top: 875px;
+  width: 333px;
+}
+.quiz-finance .cards-C61RwL {
+  background-color: transparent;
+  height: 115px;
+  left: 20px;
+  position: absolute;
+  top: 200px;
+  width: 333px;
+}
+.quiz-finance .cards-QxM5SU {
+  background-color: transparent;
+  height: 115px;
+  left: 20px;
+  position: absolute;
+  top: 335px;
+  width: 333px;
+}
+.quiz-finance .cards-VMr6Om {
+  background-color: transparent;
+  height: 115px;
+  left: 21px;
+  position: absolute;
+  top: 740px;
+  width: 333px;
+}
+.quiz-finance .cards-mzXdH9 {
+  background-color: transparent;
+  height: 115px;
+  left: 21px;
+  position: absolute;
+  top: 470px;
+  width: 333px;
+}
+.quiz-finance .cards-qr8e7q {
+  background-color: transparent;
+  height: 115px;
+  left: 21px;
+  position: absolute;
+  top: 605px;
+  width: 333px;
+}
+.quiz-finance .combined-shape-NxeYix {
+  background-color: transparent;
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+.quiz-finance .flame-768-2-F7IvhC {
+  background-color: transparent;
+  height: 90px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 90px;
+}
+.quiz-finance .flame-768-2-POQkFh {
+  background-color: transparent;
+  height: 90px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 90px;
+}
+.quiz-finance .flame-768-2-c1Dusu {
+  background-color: transparent;
+  height: 90px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 90px;
+}
+.quiz-finance .flame-768-2-nomxO8 {
+  background-color: transparent;
+  height: 90px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 90px;
+}
+.quiz-finance .flame-768-2-p2IcB5 {
+  background-color: transparent;
+  height: 90px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 90px;
+}
+.quiz-finance .flame-768-2-u2rv7T {
+  background-color: transparent;
+  height: 90px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 90px;
+}
+.quiz-finance .group-79-xjb0Rz {
+  background-color: transparent;
+  height: 54px;
+  left: 19px;
+  position: absolute;
+  top: 7px;
+  width: 38px;
+}
+.quiz-finance .group-8-F7IvhC {
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  box-shadow: 0px 6px 10px rgba(103,103,103,0.25);;
+  height: 115px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+.quiz-finance .group-8-POQkFh {
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  box-shadow: 0px 6px 10px rgba(103,103,103,0.25);;
+  height: 115px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+.quiz-finance .group-8-c1Dusu {
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  box-shadow: 0px 6px 10px rgba(103,103,103,0.25);;
+  height: 115px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+.quiz-finance .group-8-nomxO8 {
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  box-shadow: 0px 6px 10px rgba(103,103,103,0.25);;
+  height: 115px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+.quiz-finance .group-8-p2IcB5 {
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  box-shadow: 0px 6px 10px rgba(103,103,103,0.25);;
+  height: 115px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+.quiz-finance .group-8-u2rv7T {
+  background-color: var(--desert-storm);
+  border-radius: 8px;
+  box-shadow: 0px 6px 10px rgba(103,103,103,0.25);;
+  height: 115px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+.quiz-finance .group-80-xjb0Rz {
+  background-color: transparent;
+  height: 52px;
+  left: 122px;
+  position: absolute;
+  top: 8px;
+  width: 29px;
+}
+.quiz-finance .group-81-xjb0Rz {
+  background-color: transparent;
+  height: 53px;
+  left: 319px;
+  position: absolute;
+  top: 7px;
+  width: 38px;
+}
+.quiz-finance .group-82-xjb0Rz {
+  background-color: transparent;
+  height: 53px;
+  left: 216px;
+  position: absolute;
+  top: 7px;
+  width: 38px;
+}
+.quiz-finance .group-93-F7IvhC {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 7px;
+  left: 151px;
+  position: absolute;
+  top: 97px;
+  width: 127px;
+}
+.quiz-finance .group-93-POQkFh {
+  background-color: transparent;
+  height: 7px;
+  left: 146px;
+  position: absolute;
+  top: 97px;
+  width: 132px;
+}
+.quiz-finance .group-93-c1Dusu {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 7px;
+  left: 151px;
+  position: absolute;
+  top: 97px;
+  width: 127px;
+}
+.quiz-finance .group-93-nomxO8 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 7px;
+  left: 151px;
+  position: absolute;
+  top: 97px;
+  width: 127px;
+}
+.quiz-finance .group-93-p2IcB5 {
+  background-color: transparent;
+  height: 7px;
+  left: 146px;
+  position: absolute;
+  top: 97px;
+  width: 132px;
+}
+.quiz-finance .group-93-u2rv7T {
+  background-color: transparent;
+  height: 7px;
+  left: 146px;
+  position: absolute;
+  top: 97px;
+  width: 132px;
+}
+.quiz-finance .header-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/union-36@2x.svg);
+  background-size: 100% 100%;
+  height: 160px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.quiz-finance .home-i307150300361-jbSSr9 {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-finance .home-indicator-xjb0Rz {
+  background-color: var(--black);
+  border-radius: 100px;
+  height: 5px;
+  left: 121px;
+  position: absolute;
+  top: 72px;
+  width: 134px;
+}
+.quiz-finance .i-phone-x-11-pro-IcPKRJ {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.quiz-finance .i-phone-x-11-pro-black-M9CKJ3 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 375px;
+}
+.quiz-finance .icon-5ZHSOK {
+  background-color: transparent;
+  height: 30px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 30px;
+}
+.quiz-finance .icon-IcPKRJ {
+  background-color: transparent;
+  height: 25px;
+  left: 18px;
+  position: absolute;
+  top: 54px;
+  width: 15px;
+}
+.quiz-finance .icon-QcSVD9 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+.quiz-finance .icon-kh1wEo {
+  background-color: transparent;
+  height: 30px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 34px;
+}
+.quiz-finance .icon-oG6d86 {
+  background-color: transparent;
+  height: 35px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.quiz-finance .left-side-W8ROXu {
+  background-color: transparent;
+  height: 11px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 28px;
+}
+.quiz-finance .mobile-signal-j2M5V3 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+.quiz-finance .motivating-desc-i3071901411167-u2rv7T {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 174px;
+}
+.quiz-finance .motivating-desc-i3072041411167-POQkFh {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 174px;
+}
+.quiz-finance .motivating-desc-i3072181411167-p2IcB5 {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 174px;
+}
+.quiz-finance .motivating-desc-i3072193003860-F7IvhC {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 174px;
+}
+.quiz-finance .motivating-desc-i3072463003860-c1Dusu {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 174px;
+}
+.quiz-finance .motivating-desc-i3072483003860-nomxO8 {
+  background-color: transparent;
+  height: auto;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 174px;
+}
+.quiz-finance .navigation-C61RwL {
+  background-color: transparent;
+  height: 85px;
+  left: -2px;
+  position: absolute;
+  top: 1034px;
+  width: 375px;
+}
+.quiz-finance .notch-DawVfz {
+  background-color: transparent;
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 0px;
+  width: 219px;
+}
+.quiz-finance .profile-i307150300364-QcSVD9 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-finance .quiz-i307150300363-3AZWbb {
+  background-color: transparent;
+  height: 14px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 39px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-finance .quiz-name-i3071901411166-u2rv7T {
+  background-color: transparent;
+  color: var(--blue-zodiac);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 15px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+.quiz-finance .quiz-name-i3072041411166-POQkFh {
+  background-color: transparent;
+  color: var(--blue-zodiac);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 15px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+.quiz-finance .quiz-name-i3072181411166-p2IcB5 {
+  background-color: transparent;
+  color: var(--blue-zodiac);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 15px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+.quiz-finance .quiz-name-i3072193003861-F7IvhC {
+  background-color: transparent;
+  color: var(--blue-zodiac);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 15px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+.quiz-finance .quiz-name-i3072463003861-c1Dusu {
+  background-color: transparent;
+  color: var(--blue-zodiac);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 15px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+.quiz-finance .quiz-name-i3072483003861-nomxO8 {
+  background-color: transparent;
+  color: var(--blue-zodiac);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 15px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 174px;
+}
+.quiz-finance .rectangle-100-mxoO4t {
+  background-color: rgba(101,215,147,1.0);
+  border-radius: 10px;
+  height: 7px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.quiz-finance .rectangle-94-F7IvhC {
+  background-color: var(--green-vogue);
+  border-radius: 10px;
+  height: 92px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+.quiz-finance .rectangle-94-POQkFh {
+  background-color: var(--green-vogue);
+  border-radius: 10px;
+  height: 92px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+.quiz-finance .rectangle-94-c1Dusu {
+  background-color: var(--green-vogue);
+  border-radius: 10px;
+  height: 92px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+.quiz-finance .rectangle-94-nomxO8 {
+  background-color: var(--green-vogue);
+  border-radius: 10px;
+  height: 92px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+.quiz-finance .rectangle-94-p2IcB5 {
+  background-color: var(--green-vogue);
+  border-radius: 10px;
+  height: 92px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+.quiz-finance .rectangle-94-u2rv7T {
+  background-color: var(--green-vogue);
+  border-radius: 10px;
+  height: 92px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 126px;
+}
+.quiz-finance .rectangle-99-3SHxOx {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 7px;
+  left: 5px;
+  position: relative;
+  top: 0px;
+  width: 127px;
+}
+.quiz-finance .rectangle-99-QHaH88 {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 7px;
+  left: 5px;
+  position: relative;
+  top: 0px;
+  width: 127px;
+}
+.quiz-finance .rectangle-99-mxoO4t {
+  background-color: var(--alto);
+  border-radius: 10px;
+  height: 7px;
+  left: 5px;
+  position: absolute;
+  top: 0px;
+  width: 127px;
+}
+.quiz-finance .rectangle-NxeYix {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 22px;
+}
+.quiz-finance .rectangle-a8pyVb {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.quiz-finance .right-side-W8ROXu {
+  background-color: transparent;
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 17px;
+  width: 67px;
+}
+.quiz-finance .skills-i307150300362-oG6d86 {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-finance .span0-GYsEeM {
+  color: rgba(4,41,79,1.0);
+  font-style: normal;
+  line-height: normal;
+}
+.quiz-finance .span1-GYsEeM {
+  color: rgba(4,41,79,1.0);
+  font-style: normal;
+}
+.quiz-finance .span2-GYsEeM {
+  color: rgba(4,41,79,1.0);
+  font-size: 26px;
+  font-style: normal;
+  line-height: 26px;
+}
+.quiz-finance .test-your-knowl-s-i307873004330-IcPKRJ {
+  background-color: transparent;
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  top: 92px;
+  width: 338px;
+}
+.quiz-finance .union-xjb0Rz {
+  background-color: transparent;
+  height: 125px;
+  left: -20px;
+  position: absolute;
+  top: -24px;
+  width: 415px;
+}
+.quiz-finance .vector-creator-15-4-F7IvhC {
+  background-color: transparent;
+  height: 23px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-4-POQkFh {
+  background-color: transparent;
+  height: 23px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-4-c1Dusu {
+  background-color: transparent;
+  height: 23px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-4-nomxO8 {
+  background-color: transparent;
+  height: 23px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-4-p2IcB5 {
+  background-color: transparent;
+  height: 23px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-4-u2rv7T {
+  background-color: transparent;
+  height: 23px;
+  left: 146px;
+  position: absolute;
+  top: 70px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-5-F7IvhC {
+  background-color: transparent;
+  height: 23px;
+  left: 201px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-5-POQkFh {
+  background-color: transparent;
+  height: 23px;
+  left: 201px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-5-c1Dusu {
+  background-color: transparent;
+  height: 23px;
+  left: 201px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-5-nomxO8 {
+  background-color: transparent;
+  height: 23px;
+  left: 201px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-5-p2IcB5 {
+  background-color: transparent;
+  height: 23px;
+  left: 201px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-5-u2rv7T {
+  background-color: transparent;
+  height: 23px;
+  left: 201px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-6-F7IvhC {
+  background-color: transparent;
+  height: 23px;
+  left: 256px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-6-POQkFh {
+  background-color: transparent;
+  height: 23px;
+  left: 256px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-6-c1Dusu {
+  background-color: transparent;
+  height: 23px;
+  left: 256px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-6-nomxO8 {
+  background-color: transparent;
+  height: 23px;
+  left: 256px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-6-p2IcB5 {
+  background-color: transparent;
+  height: 23px;
+  left: 256px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .vector-creator-15-6-u2rv7T {
+  background-color: transparent;
+  height: 23px;
+  left: 256px;
+  position: absolute;
+  top: 71px;
+  width: 23px;
+}
+.quiz-finance .wifi-j2M5V3 {
+  background-color: transparent;
+  height: 12px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 16px;
+}
+.quiz-finance .x23-done-i3071901823139-u2rv7T {
+  background-color: transparent;
+  color: rgba(208,208,208,1.0);
+  font-family: 'Inter', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  height: 12px;
+  left: 283px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 93px;
+  width: 46px;
+}
+.quiz-finance .x24-basic-home-jbSSr9 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+.quiz-finance .x24-basic-pencil-edit-3AZWbb {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+.quiz-finance .x36-unlocked-C61RwL {
+  background-color: transparent;
+  color: rgba(96,96,96,0.26);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  height: 14px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 174px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-finance .x941-RIFEjI {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+.worksans-medium-green-vogue-10px {
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+.worksans-normal-black-20px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-semi-bold-black-18px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-26px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-24px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --alto: rgba(217,217,217,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blue-zodiac: rgba(16,41,76,1.0);
+  --caribbean-green-pearl: rgba(86,222,140,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --green-vogue: rgba(4,41,79,1.0);
+  --grenadier: rgba(226,48,1,1.0);
+  --selective-yellow: rgba(255,180,0,1.0);
+  --storm-dust: rgba(96,96,96,1.0);
+  --white: rgba(255,255,255,1.0);
+}

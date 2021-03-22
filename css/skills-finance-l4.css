@@ -1,0 +1,794 @@
+/* screen - skills-finance-l4 */
+
+.lato-medium-black-24px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.lato-normal-black-12px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.skills-finance-l4 {
+  background-color: var(--white);
+  height: 1035px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.skills-finance-l4 .about-on-0Z81Dy {
+  background-color: transparent;
+  height: 45px;
+  left: 214px;
+  position: absolute;
+  top: 3px;
+  width: 124px;
+}
+.skills-finance-l4 .about-variant3-C61RwL {
+  background-color: transparent;
+  height: 407px;
+  left: 18px;
+  position: absolute;
+  top: 175px;
+  transform: rotate(180deg);
+  width: 337px;
+}
+.skills-finance-l4 .battery-4e4sft {
+  background-color: transparent;
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.skills-finance-l4 .bg-K4FkNx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 375px;
+}
+.skills-finance-l4 .combined-shape-tXXCRq {
+  background-color: transparent;
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+.skills-finance-l4 .component-36-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/ellipse-13@2x.svg);
+  background-size: 100% 100%;
+  height: 65px;
+  left: 151px;
+  position: absolute;
+  top: 375px;
+  width: 71px;
+}
+.skills-finance-l4 .component-51-XTrNdd {
+  background-color: transparent;
+  height: 294px;
+  left: 0px;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+.skills-finance-l4 .component-53-C61RwL {
+  background-color: transparent;
+  height: 307px;
+  left: 309px;
+  position: absolute;
+  top: 500px;
+  width: 29px;
+}
+.skills-finance-l4 .flame-849-6-xYkN9o {
+  background-color: transparent;
+  height: 23px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 17px;
+}
+.skills-finance-l4 .flame-849-7-xYkN9o {
+  background-color: transparent;
+  height: 23px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 17px;
+}
+.skills-finance-l4 .flame-849-8-xYkN9o {
+  background-color: transparent;
+  height: 23px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 17px;
+}
+.skills-finance-l4 .flame-849-9-xYkN9o {
+  background-color: transparent;
+  height: 23px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 17px;
+}
+.skills-finance-l4 .group-113-C61RwL {
+  background-color: var(--selective-yellow);
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.25);;
+  height: 60px;
+  left: 29px;
+  position: absolute;
+  top: 835px;
+  width: 316px;
+}
+.skills-finance-l4 .group-20-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/exclude@2x.svg);
+  background-size: 100% 100%;
+  height: 29px;
+  left: 305px;
+  position: absolute;
+  top: 233px;
+  width: 22px;
+}
+.skills-finance-l4 .group-79-XuXe12 {
+  background-color: transparent;
+  height: 60px;
+  left: 19px;
+  position: absolute;
+  top: 8px;
+  width: 38px;
+}
+.skills-finance-l4 .group-80-XuXe12 {
+  background-color: transparent;
+  height: 57px;
+  left: 122px;
+  position: absolute;
+  top: 9px;
+  width: 29px;
+}
+.skills-finance-l4 .group-81-XuXe12 {
+  background-color: transparent;
+  height: 59px;
+  left: 319px;
+  position: absolute;
+  top: 8px;
+  width: 38px;
+}
+.skills-finance-l4 .group-82-XuXe12 {
+  background-color: transparent;
+  height: 59px;
+  left: 216px;
+  position: absolute;
+  top: 8px;
+  width: 38px;
+}
+.skills-finance-l4 .header-header-skills-large-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/union-2@2x.svg);
+  background-size: 100% 100%;
+  height: 160px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.skills-finance-l4 .home-i3182593027289-XQylJp {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .home-indicator-XuXe12 {
+  background-color: var(--black);
+  border-radius: 100px;
+  height: 6px;
+  left: 121px;
+  position: absolute;
+  top: 80px;
+  width: 134px;
+}
+.skills-finance-l4 .i-phone-x-11-pro-N3MhLE {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.skills-finance-l4 .i-phone-x-11-pro-black-xUME6c {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 375px;
+}
+.skills-finance-l4 .icon-Ae18Lk {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 36px;
+}
+.skills-finance-l4 .icon-Ed42Ul {
+  background-color: transparent;
+  height: 34px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 30px;
+}
+.skills-finance-l4 .icon-N3MhLE {
+  background-color: transparent;
+  height: 25px;
+  left: 18px;
+  position: absolute;
+  top: 59px;
+  width: 15px;
+}
+.skills-finance-l4 .icon-d4Xmw8 {
+  background-color: transparent;
+  height: 34px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 34px;
+}
+.skills-finance-l4 .icon-gFsrOd {
+  background-color: transparent;
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: -0px;
+  width: 25px;
+}
+.skills-finance-l4 .left-side-K4FkNx {
+  background-color: transparent;
+  height: 11px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 28px;
+}
+.skills-finance-l4 .lesson-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 190px;
+  width: 66px;
+}
+.skills-finance-l4 .level-up-your-f-s-i318232311250-N3MhLE {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  top: 91px;
+  width: 338px;
+}
+.skills-finance-l4 .mobile-signal-4e4sft {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+.skills-finance-l4 .navdeep-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Lato', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 522px;
+  width: 233px;
+}
+.skills-finance-l4 .navigation-variant6-C61RwL {
+  background-color: transparent;
+  height: 95px;
+  left: 0px;
+  position: absolute;
+  top: 942px;
+  width: 375px;
+}
+.skills-finance-l4 .notch-jJjMyl {
+  background-color: transparent;
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 0px;
+  width: 219px;
+}
+.skills-finance-l4 .okay-here-we-go-this-is-the-tip-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Lato', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 560px;
+  width: 257px;
+}
+.skills-finance-l4 .part-4-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 268px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .polygon-4-gmKP0q {
+  background-color: transparent;
+  height: 32px;
+  left: 20px;
+  position: absolute;
+  top: 17px;
+  width: 30px;
+}
+.skills-finance-l4 .profile-i3182593027317-Ae18Lk {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .quiz-i3182593027306-aBwSBF {
+  background-color: transparent;
+  height: 14px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .rectangle-162-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 177px;
+  left: 33px;
+  position: absolute;
+  top: 331px;
+  width: 305px;
+}
+.skills-finance-l4 .rectangle-163-C61RwL {
+  background-color: rgba(225,219,217,1.0);
+  border-radius: 8px;
+  height: 131px;
+  left: 52px;
+  position: absolute;
+  top: 347px;
+  width: 266px;
+}
+.skills-finance-l4 .rectangle-165-XTrNdd {
+  background-color: transparent;
+  height: 45px;
+  left: 11px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+.skills-finance-l4 .rectangle-177-XTrNdd {
+  background-color: transparent;
+  height: 44px;
+  left: 11px;
+  position: absolute;
+  top: 61px;
+  width: 7px;
+}
+.skills-finance-l4 .rectangle-178-XTrNdd {
+  background-color: transparent;
+  height: 44px;
+  left: 11px;
+  position: absolute;
+  top: 121px;
+  width: 7px;
+}
+.skills-finance-l4 .rectangle-179-XTrNdd {
+  background-color: transparent;
+  height: 44px;
+  left: 11px;
+  position: absolute;
+  top: 181px;
+  width: 7px;
+}
+.skills-finance-l4 .rectangle-180-XTrNdd {
+  background-color: transparent;
+  height: 56px;
+  left: 11px;
+  position: absolute;
+  top: 241px;
+  width: 7px;
+}
+.skills-finance-l4 .rectangle-99-xYkN9o {
+  background-color: var(--storm-dust);
+  border-radius: 10px;
+  height: 5px;
+  left: -127px;
+  position: absolute;
+  top: 138px;
+  transform: rotate(90.00deg);
+  width: 282px;
+}
+.skills-finance-l4 .rectangle-Op6KuS {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.skills-finance-l4 .rectangle-tXXCRq {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 22px;
+}
+.skills-finance-l4 .right-side-K4FkNx {
+  background-color: transparent;
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 17px;
+  width: 67px;
+}
+.skills-finance-l4 .send-tax-return-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 297px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .skills-i3182593027296-gFsrOd {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .span0-T6Qxnf {
+  color: rgba(255,255,255,1.0);
+  font-style: normal;
+  line-height: 20px;
+}
+.skills-finance-l4 .span1-T6Qxnf {
+  color: rgba(255,255,255,1.0);
+  font-size: 26px;
+  font-style: normal;
+  line-height: 26px;
+}
+.skills-finance-l4 .summary-A4YxlI {
+  background-color: transparent;
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  transform: rotate(-180deg);
+  width: 122px;
+}
+.skills-finance-l4 .taxes-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Inter', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  height: 19px;
+  left: 53px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 126px;
+  width: auto;
+}
+.skills-finance-l4 .union-0Z81Dy {
+  background-color: transparent;
+  height: 363px;
+  left: 0px;
+  position: absolute;
+  top: 44px;
+  transform: rotate(-180deg);
+  width: 337px;
+}
+.skills-finance-l4 .union-A4YxlI {
+  background-color: transparent;
+  height: 45px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  transform: rotate(-180deg);
+  width: 125px;
+}
+.skills-finance-l4 .union-C61RwL {
+  background-color: transparent;
+  height: 55px;
+  left: 231px;
+  position: absolute;
+  top: 175px;
+  width: 126px;
+}
+.skills-finance-l4 .union-VMr6Om {
+  background-color: transparent;
+  height: 701px;
+  left: 17px;
+  position: absolute;
+  top: 217px;
+  width: 339px;
+}
+.skills-finance-l4 .union-XuXe12 {
+  background-color: transparent;
+  height: 136px;
+  left: -20px;
+  position: absolute;
+  top: -24px;
+  width: 415px;
+}
+.skills-finance-l4 .unlock-the-quiz-Yl3YtL {
+  background-color: transparent;
+  height: 35px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 264px;
+}
+.skills-finance-l4 .vector-creator-11-1-C61RwL {
+  background-color: transparent;
+  height: 189px;
+  left: 16px;
+  position: absolute;
+  top: 139px;
+  width: 189px;
+}
+.skills-finance-l4 .vector-creator-13-5-C61RwL {
+  background-color: transparent;
+  height: 116px;
+  left: 238px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 120px;
+}
+.skills-finance-l4 .vector-creator-14-7-C61RwL {
+  background-color: transparent;
+  height: 34px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 50px;
+}
+.skills-finance-l4 .vector-creator-15-3-Yl3YtL {
+  background-color: transparent;
+  height: 42px;
+  left: 264px;
+  position: absolute;
+  top: 11px;
+  width: 43px;
+}
+.skills-finance-l4 .vector-creator-16-12-C61RwL {
+  background-color: transparent;
+  height: 120px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 197px;
+}
+.skills-finance-l4 .vector-creator-9-2-XTrNdd {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 281px;
+  width: 29px;
+}
+.skills-finance-l4 .video-explanati-your-tax-return-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 486px;
+  white-space: nowrap;
+  width: auto;
+}
+.skills-finance-l4 .wifi-4e4sft {
+  background-color: transparent;
+  height: 12px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 16px;
+}
+.skills-finance-l4 .x1-min-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 266px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 460px;
+  white-space: nowrap;
+  width: 66px;
+}
+.skills-finance-l4 .x24-basic-home-XQylJp {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+.skills-finance-l4 .x24-basic-pencil-edit-aBwSBF {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+.skills-finance-l4 .x941-mTfd3B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+.worksans-medium-green-vogue-10px {
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+.worksans-normal-black-20px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-semi-bold-black-18px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-26px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-24px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --alto: rgba(217,217,217,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blue-zodiac: rgba(16,41,76,1.0);
+  --caribbean-green-pearl: rgba(86,222,140,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --green-vogue: rgba(4,41,79,1.0);
+  --grenadier: rgba(226,48,1,1.0);
+  --selective-yellow: rgba(255,180,0,1.0);
+  --storm-dust: rgba(96,96,96,1.0);
+  --white: rgba(255,255,255,1.0);
+}

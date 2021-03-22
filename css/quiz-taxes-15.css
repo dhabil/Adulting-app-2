@@ -1,0 +1,388 @@
+/* screen - quiz-taxes-15 */
+
+.lato-medium-black-24px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.lato-normal-black-12px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.quiz-taxes-15 {
+  background-color: transparent;
+  background-image: url(../img/quiz--taxes--15@1x.svg);
+  background-size: 100% 100%;
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.quiz-taxes-15 .battery-HprNOo {
+  background-color: transparent;
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.quiz-taxes-15 .bg-86fQCx {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 375px;
+}
+.quiz-taxes-15 .brain-C61RwL {
+  background-color: transparent;
+  height: 239px;
+  left: 58px;
+  position: absolute;
+  top: 168px;
+  width: 242px;
+}
+.quiz-taxes-15 .button-C61RwL {
+  background-color: var(--green-vogue);
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(103,103,103,0.25);;
+  height: 44px;
+  left: 23px;
+  position: absolute;
+  top: 639px;
+  width: 333px;
+}
+.quiz-taxes-15 .combined-shape-4hFnaz {
+  background-color: transparent;
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+.quiz-taxes-15 .earn-5-more-to-nce-achievement-C61RwL {
+  background-color: transparent;
+  color: var(--green-vogue);
+  font-family: 'Lato', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 581px;
+  transform: rotate(-0.02deg);
+  width: 315px;
+}
+.quiz-taxes-15 .ellipse-4-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 240px;
+  object-fit: cover;
+  position: absolute;
+  top: 736px;
+  width: 40px;
+}
+.quiz-taxes-15 .i-phone-x-11-pro-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: -1px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.quiz-taxes-15 .i-phone-x-11-pro-black-LMS6Bj {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 375px;
+}
+.quiz-taxes-15 .left-side-86fQCx {
+  background-color: transparent;
+  height: 11px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 28px;
+}
+.quiz-taxes-15 .mobile-signal-HprNOo {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+.quiz-taxes-15 .nice-work-thomas-C61RwL {
+  background-color: transparent;
+  color: rgba(252,252,254,1.0);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  height: 40px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 74px;
+  width: 337px;
+}
+.quiz-taxes-15 .notch-bP8xXx {
+  background-color: transparent;
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 0px;
+  width: 219px;
+}
+.quiz-taxes-15 .omg-you-got-33-a-perfect-score-C61RwL {
+  background-color: transparent;
+  color: var(--green-vogue);
+  font-family: 'Lato', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 550px;
+  transform: rotate(-0.02deg);
+  width: 353px;
+}
+.quiz-taxes-15 .party-C61RwL {
+  background-color: transparent;
+  height: 319px;
+  left: 27px;
+  position: absolute;
+  top: 124px;
+  width: 320px;
+}
+.quiz-taxes-15 .rectangle-175-C61RwL {
+  background-color: var(--black);
+  border-radius: 10px;
+  height: 5px;
+  left: 123px;
+  position: absolute;
+  top: 799px;
+  width: 134px;
+}
+.quiz-taxes-15 .rectangle-200-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  box-shadow: 0px -4px 10px rgba(3,41,79,0.41);;
+  height: 278px;
+  left: 0px;
+  position: absolute;
+  top: 539px;
+  width: 375px;
+}
+.quiz-taxes-15 .rectangle-4hFnaz {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 22px;
+}
+.quiz-taxes-15 .rectangle-7HOKsp {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.quiz-taxes-15 .right-side-86fQCx {
+  background-color: transparent;
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 17px;
+  width: 67px;
+}
+.quiz-taxes-15 .share-your-prog-ss-with-friends-C61RwL {
+  background-color: transparent;
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: 14px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 706px;
+  white-space: nowrap;
+  width: 337px;
+}
+.quiz-taxes-15 .soft-star-C61RwL {
+  background-color: transparent;
+  height: 34px;
+  left: 304px;
+  position: absolute;
+  top: 134px;
+  width: 35px;
+}
+.quiz-taxes-15 .soft-star-VMr6Om {
+  background-color: transparent;
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 121px;
+  width: 47px;
+}
+.quiz-taxes-15 .soft-star-mzXdH9 {
+  background-color: transparent;
+  height: 42px;
+  left: 284px;
+  position: absolute;
+  top: 350px;
+  width: 42px;
+}
+.quiz-taxes-15 .text-i31265293003623-xHxYv9 {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 335px;
+}
+.quiz-taxes-15 .twitter-1-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 736px;
+  width: 40px;
+}
+.quiz-taxes-15 .vector-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 169px;
+  position: absolute;
+  top: 736px;
+  width: 40px;
+}
+.quiz-taxes-15 .wifi-HprNOo {
+  background-color: transparent;
+  height: 12px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 16px;
+}
+.quiz-taxes-15 .x941-qAQ6wx {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+.quiz-taxes-15 .you-earned-a-brain-badge-C61RwL {
+  background-color: transparent;
+  color: rgba(252,252,254,1.0);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  height: 81px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 442px;
+  width: 334px;
+}
+.worksans-medium-green-vogue-10px {
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+.worksans-normal-black-20px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-semi-bold-black-18px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-26px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-24px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --alto: rgba(217,217,217,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blue-zodiac: rgba(16,41,76,1.0);
+  --caribbean-green-pearl: rgba(86,222,140,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --green-vogue: rgba(4,41,79,1.0);
+  --grenadier: rgba(226,48,1,1.0);
+  --selective-yellow: rgba(255,180,0,1.0);
+  --storm-dust: rgba(96,96,96,1.0);
+  --white: rgba(255,255,255,1.0);
+}

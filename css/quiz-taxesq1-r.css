@@ -1,0 +1,378 @@
+/* screen - quiz-taxesq1-r */
+
+.lato-medium-black-24px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.lato-normal-black-12px {
+  color: var(--black);
+  font-family: 'Lato', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.quiz-taxesq1-r {
+  background-color: var(--green-vogue);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.quiz-taxesq1-r .battery-j2M5V3 {
+  background-color: transparent;
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+.quiz-taxesq1-r .bg-W8ROXu {
+  background-color: transparent;
+  height: 46px;
+  left: 0px;
+  position: absolute;
+  top: -2px;
+  width: 375px;
+}
+.quiz-taxesq1-r .combined-shape-NxeYix {
+  background-color: transparent;
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+.quiz-taxesq1-r .flame-768-2-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 308px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 67px;
+}
+.quiz-taxesq1-r .group-93-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 151px;
+  width: 335px;
+}
+.quiz-taxesq1-r .group-94-C61RwL {
+  background-color: var(--caribbean-green-pearl);
+  border-radius: 10px;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 151px;
+  width: 51px;
+}
+.quiz-taxesq1-r .header-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.quiz-taxesq1-r .i-phone-x-11-pro-IcPKRJ {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.quiz-taxesq1-r .i-phone-x-11-pro-black-M9CKJ3 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 375px;
+}
+.quiz-taxesq1-r .icon-IcPKRJ {
+  background-color: transparent;
+  height: 21px;
+  left: 16px;
+  position: absolute;
+  top: 60px;
+  width: 21px;
+}
+.quiz-taxesq1-r .if-your-employe-your-tax-return-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 208px;
+  width: 277px;
+}
+.quiz-taxesq1-r .left-side-W8ROXu {
+  background-color: transparent;
+  height: 11px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 28px;
+}
+.quiz-taxesq1-r .menu-bar-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 799px;
+  width: 134px;
+}
+.quiz-taxesq1-r .mobile-signal-j2M5V3 {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 18px;
+}
+.quiz-taxesq1-r .nice-job-C61RwL {
+  background-color: transparent;
+  color: rgba(54,190,108,1.0);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 204px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 684px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-taxesq1-r .notch-DawVfz {
+  background-color: transparent;
+  height: 30px;
+  left: 78px;
+  position: absolute;
+  top: 0px;
+  width: 219px;
+}
+.quiz-taxesq1-r .question-13-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  white-space: nowrap;
+  width: auto;
+}
+.quiz-taxesq1-r .quiz-card-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/vector-creator--18--6@2x.svg);
+  background-size: 100% 100%;
+  height: 102px;
+  left: 108px;
+  position: absolute;
+  top: 404px;
+  width: 157px;
+}
+.quiz-taxesq1-r .quiz-card-VMr6Om {
+  background-color: transparent;
+  background-image: url(../img/vector-creator--18--6@2x.svg);
+  background-size: 100% 100%;
+  height: 102px;
+  left: 108px;
+  position: absolute;
+  top: 556px;
+  width: 157px;
+}
+.quiz-taxesq1-r .quiz-i3124332312230-IcPKRJ {
+  background-color: transparent;
+  height: 14px;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  white-space: nowrap;
+  width: 205px;
+}
+.quiz-taxesq1-r .rectangle-200-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 549px;
+  left: 19px;
+  position: absolute;
+  top: 180px;
+  width: 335px;
+}
+.quiz-taxesq1-r .rectangle-NxeYix {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 22px;
+}
+.quiz-taxesq1-r .rectangle-a8pyVb {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+.quiz-taxesq1-r .right-side-W8ROXu {
+  background-color: transparent;
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 17px;
+  width: 67px;
+}
+.quiz-taxesq1-r .text-here-i31255463125521-SCjjEc {
+  background-color: transparent;
+  height: 78px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 135px;
+}
+.quiz-taxesq1-r .text-here-i31255473125526-xu4BNp {
+  background-color: transparent;
+  height: 78px;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 135px;
+}
+.quiz-taxesq1-r .union-IcPKRJ {
+  background-color: transparent;
+  height: 101px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.quiz-taxesq1-r .vector-creator-20-1-xu4BNp {
+  background-color: transparent;
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 157px;
+}
+.quiz-taxesq1-r .wifi-j2M5V3 {
+  background-color: transparent;
+  height: 12px;
+  left: 22px;
+  position: absolute;
+  top: -1px;
+  width: 16px;
+}
+.quiz-taxesq1-r .x16-circle-chevron-right-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/icon-61@2x.svg);
+  background-size: 100% 100%;
+  height: 45px;
+  left: 296px;
+  position: absolute;
+  top: 668px;
+  width: 45px;
+}
+.quiz-taxesq1-r .x941-RIFEjI {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+.worksans-medium-green-vogue-10px {
+  color: var(--green-vogue);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+.worksans-normal-black-20px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.worksans-semi-bold-black-18px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-black-26px {
+  color: var(--black);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-16px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-18px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.worksans-semi-bold-white-24px {
+  color: var(--white);
+  font-family: 'Work Sans', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --alto: rgba(217,217,217,1.0);
+  --black: rgba(0,0,0,1.0);
+  --blue-zodiac: rgba(16,41,76,1.0);
+  --caribbean-green-pearl: rgba(86,222,140,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --green-vogue: rgba(4,41,79,1.0);
+  --grenadier: rgba(226,48,1,1.0);
+  --selective-yellow: rgba(255,180,0,1.0);
+  --storm-dust: rgba(96,96,96,1.0);
+  --white: rgba(255,255,255,1.0);
+}
